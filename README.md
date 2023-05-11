@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **at Supinfo Caen**
 
-- 💬 Ask me about **react, kotlin, c#**
+- 💬 Ask me about **react, kotlin, c# and js**
 
 - 📫 How to reach me **goudalmathys@gmail.com**
 
