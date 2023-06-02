@@ -15,3 +15,26 @@
 <p align="center">
   <a href="https://github.com/Codennnn/vue-color-avatar" target="_blank" rel="noreferrer">Avatar From vue-color-avatar</a>
 </p>
+
+<h2>Certifications</h2>
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" alt="Logo Microsoft" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>Microsoft Certified: Azure AI Fundamentals</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Microsoft</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>May<br>2023</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/24b5dee0-e5ad-4f57-ad50-ec687c6469ba/linked_in_profile" target="_blank">View Credential</a></td>
+  </tr>
+</table>
+
