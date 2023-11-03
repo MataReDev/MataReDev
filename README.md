@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td rowspan="4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/2048px-Microsoft_logo.svg.png" alt="Logo Microsoft" width="70" height="70"></td>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Logo Microsoft" width="70" height="70"></td>
     <th>MataRed</th>
     <td>Microsoft Certified: Azure AI Fundamentals</td>
   </tr>
