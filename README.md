@@ -38,3 +38,22 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Logo CISCO CYBER" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>Cisco : Introduction to Cybersecurity</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Cisco</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>Novemeber<br>2023</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/1ac886ea-45dd-4b81-af78-7b80f7148d7f/public_url" target="_blank">View Credential</a></td>
+  </tr>
+</table>
