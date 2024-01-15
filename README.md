@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <th>Issued Date</th>
-    <td>Novemeber<br>2023</td>
+    <td>November<br>2023</td>
   </tr>
   <tr>
     <th>Credential ID</th>
