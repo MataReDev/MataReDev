@@ -67,7 +67,67 @@
 
 <table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Logo CISCO CYBER" width="70" height="70"></td>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Logo Microsoft" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>Microsoft Certified: Azure Fundamentals</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Microsoft</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>May<br>2024</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/63d1b292-1253-43dc-bbf8-b27c3f6f12b6" target="_blank">View Credential</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Logo CCNA: Switching, Routing, and Wireless Essentials" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>CCNA: Switching, Routing, and Wireless Essentials</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Cisco</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>February<br>2024</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/6bd3c96c-6faa-40d1-92d8-aca64294f9b4" target="_blank">View Credential</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Logo Networking Academy Learn-A-Thon 2023" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>Networking Academy Learn-A-Thon 2023</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Cisco</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>November<br>2023</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/a4c1d197-0708-4000-b3ff-83c581e7c883" target="_blank">View Credential</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="70" height="70"></td>
     <th>MataRed</th>
     <td>Cisco : Introduction to Cybersecurity</td>
   </tr>
@@ -81,6 +141,6 @@
   </tr>
   <tr>
     <th>Credential ID</th>
-    <td><a href="https://www.credly.com/badges/1ac886ea-45dd-4b81-af78-7b80f7148d7f/public_url" target="_blank">View Credential</a></td>
+    <td><a href="https://www.credly.com/badges/1ac886ea-45dd-4b81-af78-7b80f7148d7f" target="_blank">View Credential</a></td>
   </tr>
 </table>
