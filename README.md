@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MataRed</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h2>Data Scientist / Analyst Developer </h2>
 
 - 🌱 I’m currently learning **at Supinfo Caen**
 
