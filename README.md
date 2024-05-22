@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **at Supinfo Caen**
 
-- 💬 Ask me about **react, kotlin, c# and js**
+- 💬 Ask me about **data, react, kotlin, c# and js**
 
 - 📫 How to reach me **goudalmathys@gmail.com**
 
-- ⚡ Fun fact **I love Formula 1**
+- ⚡ Fun fact **I love mechanic sports**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
