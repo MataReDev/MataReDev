@@ -2,6 +2,8 @@
 <h2>Data Scientist / Analyst Developer </h2>
 
 - 🌱 I’m currently learning **at Supinfo Caen**
+  
+- ❤️ Got in love with **UE5**
 
 - 💬 Ask me about **data, react, kotlin, c# and js**
 
