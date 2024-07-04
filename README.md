@@ -45,8 +45,11 @@
   <a href="https://github.com/Codennnn/vue-color-avatar" target="_blank" rel="noreferrer">Avatar From vue-color-avatar</a>
 </p>
 
-<h2>Certifications</h2>
 
+<h3>Google Cloud Skills</h3>
+https://www.cloudskillsboost.google/public_profiles/1cf3953e-cbd2-4569-9cc0-e323a3e88cab
+
+<h2>Certifications</h2>
 <table>
   <tr>
     <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Logo Microsoft" width="70" height="70"></td>
