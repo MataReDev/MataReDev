@@ -149,3 +149,23 @@ https://www.cloudskillsboost.google/public_profiles/1cf3953e-cbd2-4569-9cc0-e323
     <td><a href="https://www.credly.com/badges/1ac886ea-45dd-4b81-af78-7b80f7148d7f" target="_blank">View Credential</a></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="70" height="70"></td>
+    <th>MataRed</th>
+    <td>Cisco : Introduction to Data Science</td>
+  </tr>
+  <tr>
+    <th>Issuing Organization</th>
+    <td>Cisco</td>
+  </tr>
+  <tr>
+    <th>Issued Date</th>
+    <td>October<br>2024</td>
+  </tr>
+  <tr>
+    <th>Credential ID</th>
+    <td><a href="https://www.credly.com/badges/a0a055fd-1b9c-4bc6-abff-2e375af05c22" target="_blank">View Credential</a></td>
+  </tr>
+</table>
