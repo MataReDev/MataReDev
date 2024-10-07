@@ -50,122 +50,54 @@
 https://www.cloudskillsboost.google/public_profiles/1cf3953e-cbd2-4569-9cc0-e323a3e88cab
 
 <h2>Certifications</h2>
-<table>
+<table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Logo Microsoft" width="70" height="70"></td>
-    <th>MataRed</th>
-    <td>Microsoft Certified: Azure AI Fundamentals</td>
-  </tr>
-  <tr>
+    <th>Logo</th>
+    <th>Certification</th>
     <th>Issuing Organization</th>
-    <td>Microsoft</td>
-  </tr>
-  <tr>
     <th>Issued Date</th>
-    <td>May<br>2023</td>
+    <th>Credential ID</th>
   </tr>
   <tr>
-    <th>Credential ID</th>
+    <td><img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Logo Microsoft" width="70" height="70"></td>
+    <td>Microsoft Certified: Azure AI Fundamentals</td>
+    <td>Microsoft</td>
+    <td>May 2023</td>
     <td><a href="https://www.credly.com/badges/24b5dee0-e5ad-4f57-ad50-ec687c6469ba/linked_in_profile" target="_blank">View Credential</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Logo Microsoft" width="70" height="70"></td>
-    <th>MataRed</th>
+    <td><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Logo Microsoft" width="70" height="70"></td>
     <td>Microsoft Certified: Azure Fundamentals</td>
-  </tr>
-  <tr>
-    <th>Issuing Organization</th>
     <td>Microsoft</td>
-  </tr>
-  <tr>
-    <th>Issued Date</th>
-    <td>May<br>2024</td>
-  </tr>
-  <tr>
-    <th>Credential ID</th>
+    <td>May 2024</td>
     <td><a href="https://www.credly.com/badges/63d1b292-1253-43dc-bbf8-b27c3f6f12b6" target="_blank">View Credential</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Logo CCNA: Switching, Routing, and Wireless Essentials" width="70" height="70"></td>
-    <th>MataRed</th>
+    <td><img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Logo CCNA: Switching, Routing, and Wireless Essentials" width="70" height="70"></td>
     <td>CCNA: Switching, Routing, and Wireless Essentials</td>
-  </tr>
-  <tr>
-    <th>Issuing Organization</th>
     <td>Cisco</td>
-  </tr>
-  <tr>
-    <th>Issued Date</th>
-    <td>February<br>2024</td>
-  </tr>
-  <tr>
-    <th>Credential ID</th>
+    <td>February 2024</td>
     <td><a href="https://www.credly.com/badges/6bd3c96c-6faa-40d1-92d8-aca64294f9b4" target="_blank">View Credential</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Logo Networking Academy Learn-A-Thon 2023" width="70" height="70"></td>
-    <th>MataRed</th>
+    <td><img src="https://images.credly.com/size/340x340/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Logo Networking Academy Learn-A-Thon 2023" width="70" height="70"></td>
     <td>Networking Academy Learn-A-Thon 2023</td>
-  </tr>
-  <tr>
-    <th>Issuing Organization</th>
     <td>Cisco</td>
-  </tr>
-  <tr>
-    <th>Issued Date</th>
-    <td>November<br>2023</td>
-  </tr>
-  <tr>
-    <th>Credential ID</th>
+    <td>November 2023</td>
     <td><a href="https://www.credly.com/badges/a4c1d197-0708-4000-b3ff-83c581e7c883" target="_blank">View Credential</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="70" height="70"></td>
-    <th>MataRed</th>
-    <td>Cisco : Introduction to Cybersecurity</td>
-  </tr>
-  <tr>
-    <th>Issuing Organization</th>
+    <td><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="70" height="70"></td>
+    <td>Cisco: Introduction to Cybersecurity</td>
     <td>Cisco</td>
-  </tr>
-  <tr>
-    <th>Issued Date</th>
-    <td>November<br>2023</td>
-  </tr>
-  <tr>
-    <th>Credential ID</th>
+    <td>November 2023</td>
     <td><a href="https://www.credly.com/badges/1ac886ea-45dd-4b81-af78-7b80f7148d7f" target="_blank">View Credential</a></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td rowspan="4"><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="70" height="70"></td>
-    <th>MataRed</th>
-    <td>Cisco : Introduction to Data Science</td>
-  </tr>
-  <tr>
-    <th>Issuing Organization</th>
+    <td><img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="70" height="70"></td>
+    <td>Cisco: Introduction to Data Science</td>
     <td>Cisco</td>
-  </tr>
-  <tr>
-    <th>Issued Date</th>
-    <td>October<br>2024</td>
-  </tr>
-  <tr>
-    <th>Credential ID</th>
+    <td>October 2024</td>
     <td><a href="https://www.credly.com/badges/a0a055fd-1b9c-4bc6-abff-2e375af05c22" target="_blank">View Credential</a></td>
   </tr>
 </table>
