@@ -100,4 +100,11 @@ https://www.cloudskillsboost.google/public_profiles/1cf3953e-cbd2-4569-9cc0-e323
     <td>October 2024</td>
     <td><a href="https://www.credly.com/badges/a0a055fd-1b9c-4bc6-abff-2e375af05c22" target="_blank">View Credential</a></td>
   </tr>
+  <tr>
+    <td><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" width="70" height="70"></td>
+    <td>Python Essentials 1</td>
+    <td>Cisco</td>
+    <td>October 2024</td>
+    <td><a href="https://www.credly.com/earner/earned/badge/978e1e70-2d22-451b-a330-12a3994227b7" target="_blank">View Credential</a></td>
+  </tr>
 </table>
